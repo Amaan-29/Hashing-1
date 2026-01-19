@@ -37,3 +37,6 @@ public class IsIsomorphic {
         return true;
     }
 }
+
+// TC : O(N)
+//SC : O(1)
